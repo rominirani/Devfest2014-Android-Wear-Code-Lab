@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-29edf0e62cc22165f00f8942c2bdd582ace00665.jar"
+        jar="F:\romin\MindStorm\adt-bundle-windows-x86_64-20130219\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-d1196f201e6bd7948e4223f7f23c138c2fb92b47.jar"
+        jar="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\pre-dexed\debug\classes-83068f5917694c7de35d77a2822aad57ff26660b.jar"
+        jar="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

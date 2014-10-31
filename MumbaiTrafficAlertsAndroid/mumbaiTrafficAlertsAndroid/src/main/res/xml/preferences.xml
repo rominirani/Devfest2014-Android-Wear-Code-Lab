@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="Mumbai Monsoon Alerts Subscription">
+	  
+	  <CheckBoxPreference android:title="Subscribe To Traffic Alerts" 
+	                      android:defaultValue="false"
+	                      android:summary="Select this option to get notified of Traffic Diversions (Rail, Road and Air)."
+	                      android:key="subscribetotrafficalerts" />
+	  <CheckBoxPreference android:title="Do Not Disturb (DND) Settings" 
+	                      android:defaultValue="true"
+	                      android:summary="Select this option to not get disturbed between 9:00 PM to 7:00 AM"
+	                      android:key="dnd" />
+	  </PreferenceCategory>
+   <PreferenceCategory android:title="Important" android:layout="@layout/settings_message"/>
+</PreferenceScreen>

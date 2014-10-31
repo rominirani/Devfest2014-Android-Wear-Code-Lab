@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="20.0.0"><source path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res"/></dataSet><dataSet config="main"><source path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res"><file name="ic_launcher" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\drawable-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="notification" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\layout\notification.xml" qualifiers="" type="layout"/><file name="settings_message" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\layout\settings_message.xml" qualifiers="" type="layout"/><file name="main" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="buttonBarStyle"/>
+        <attr format="reference" name="buttonBarButtonStyle"/>
+    </declare-styleable></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values\colors.xml" qualifiers=""><color name="black_overlay">#66000000</color></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">25dp</dimen><dimen name="activity_vertical_margin">15dp</dimen></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Mumbai Traffic Alerts</string><string name="hello_world">Hello world!</string></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values\styles.xml" qualifiers=""><style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style><style name="ButtonBarButton"/><style name="CodeFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:background">#FF0000</item> 
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="FullscreenTheme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="FullscreenActionBarStyle" parent="android:Widget.Holo.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="preferences" path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\generated\res\rs\debug"/><source path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\MumbaiTrafficAlertsAndroid\mumbaiTrafficAlertsAndroid\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable></configuration></mergedItems></merger>

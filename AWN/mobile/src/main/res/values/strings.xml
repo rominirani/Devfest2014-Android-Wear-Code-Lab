@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AWN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_button">Raise Notification</string>
+    <string name="title_auction_update">Auction Update</string>
+    <string name="title_auction_details">Auction Details</string>
+
+</resources>

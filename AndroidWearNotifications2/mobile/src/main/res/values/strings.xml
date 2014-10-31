@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidWearNotifications2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+</resources>
