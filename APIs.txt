@@ -1,0 +1,44 @@
+
+Flow
+----
+1. Presentation
+2. Codelab
+   - AndroidNotifications2 : Different Notifications
+   - AWN : Step by Step - we are improving on the notifications
+   - Mumbai Traffic Alerts : Android Background Service
+3. Design Sprint
+
+
+GET https://stockquotesglass.appspot.com/_ah/api/quoteendpoint/v1/quote
+{
+items: [
+{
+ticker: "GOOG",
+currentPrice: "577.5132",
+kind: "quoteendpoint#resourcesItem"
+}
+],
+kind: "quoteendpoint#resources",
+etag: ""pMO6azXJP89SQ1mrgao6M7zjxf4/Bu07miHwmN7BdF95-8-wdHTWWtE""
+}
+
+Traffic Alerts
+==============
+https://mumbaimonsoonalerts.appspot.com/_ah/api/bmctrafficalertsendpoint/v1/bmctrafficalerts
+
+{
+items: [
+{
+id: "1",
+data_air: "Normal",
+data_road: "Normal",
+data_rail: "Normal",
+kind: "bmctrafficalertsendpoint#resourcesItem"
+}
+],
+kind: "bmctrafficalertsendpoint#resources",
+etag: ""FiHrXd0AkUYA7kEIfICBhFMJeqk/2ir9VF8_GEcChNV00y4YxTUnd-s""
+}
+
+
+
